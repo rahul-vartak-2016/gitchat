@@ -1,6 +1,8 @@
 # README #
 
-Hello! This is my chat app made with node js and angular. Private code at the moment, let's see how it spans out.
+Hello! This is my chat app made with node js and angular. Nothing fancy at the moment, let's see how it spans out.
+
+## Will update this later ##
 
 ### What is this repository for? ###
 
