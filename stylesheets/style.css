@@ -1,0 +1,38 @@
+body {
+  background-color: #fff;
+}
+
+.text-default {
+	color: #333;
+}
+
+.profile-icon {
+	vertical-align: middle;
+	font-size: 38px; 
+}
+
+.clearfix {
+	clear: both;
+}
+
+.bg-info > .alert-info {
+	border-radius: 0px 4px 4px 4px;	
+}
+
+.bg-info div.pull-right {
+	border-radius: 4px 0px 4px 4px !important;	
+}
+
+.online-user {
+	color: limegreen;
+}
+
+.offline-user {
+	color: gray;
+}
+
+.list-group-item-heading a {
+	display: block;
+	cursor: pointer;
+	text-decoration: none;
+}
